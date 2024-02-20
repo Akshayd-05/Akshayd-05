@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **prabhu.aks@northeastern.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TlYr9qn4LjULzUG99G3nNi91DLis3V0n/view?usp=sharing](https://drive.google.com/file/d/1TlYr9qn4LjULzUG99G3nNi91DLis3V0n/view?usp=sharing)
-
 - ⚡ Fun fact **Transforming code into insights and dreams into reality ✨**
 
 <h3 align="left">Connect with me:</h3>
