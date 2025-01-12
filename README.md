@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayd-05&label=Profile%20views&color=0e75b6&style=flat" alt="akshayd-05" /> </p>
 
-- 🌱 I’m currently learning **Rshiny**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Data Visualization**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **prabhu.aks@northeastern.edu**
 
