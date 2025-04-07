@@ -4,13 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"](https://repository-images.githubusercontent.com/535974998/bed8a117-492b-4129-96ee-d0731574ee3d)>
 
 
-
 - 🌱 I’m currently learning **AWS**
-
 - 💬 Ask me about **Data Analysis**
-
 - 📫 How to reach me **prabhu.aks@northeastern.edu**
-
 - ⚡ Fun fact **Transforming code into insights and dreams into reality ✨**
 
 <h3 align="left">Connect with me:</h3>
@@ -28,3 +24,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayd-05&show_icons=true&locale=en" alt="akshayd-05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayd-05&" alt="akshayd-05" /></p>
+---
+
+## 📈 Projects
+
+### ✈️ Flight Delay Prediction
+- Achieved over 95% accuracy in predicting flight delays using logistic regression and XGBoost on 3M+ records. Improved operational efficiency in aviation.
+
+### 🧑‍💼 H1B Visa Sponsorship Prediction
+- Analyzed 33,000+ LinkedIn job postings to predict visa sponsorship using ML models. Built a live Streamlit app to assist job seekers and recruiters.
+
+### 💊 Insurance Claim Estimation
+- Developed regression models to estimate health insurance claims. Used R for statistical analysis and visualizations that guided decision-making.
